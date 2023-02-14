@@ -5,7 +5,7 @@
 
 
 
-![Breno Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenooliveiraz&hide=stars&show_icons=true&theme=tokyonight)
+![Breno Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenooliveiraz&hide=star,prs,contribss&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenooliveiraz&layout=compact&theme=tokyonight)](https://github.com/brenooliveiraz/github-readme-stats)
 
 
