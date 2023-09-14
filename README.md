@@ -1,6 +1,6 @@
 ### Olá, eu sou o Breno Oliveira.
    
-🌱 Atualmente, aprofundando os estudos em React.
+🌱 Atualmente, aprofundando os estudos em Machine Learning.
 
 
 
