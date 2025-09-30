@@ -1,6 +1,6 @@
 ### Olá, eu sou o Breno Oliveira.
    
-🌱 Atualmente, aprofundando os estudos em Desenvolvimento Full Stack.
+🌱 Formado em Desenvolvimento Full Stack.
 
 
 
